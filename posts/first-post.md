@@ -12,6 +12,12 @@ Markdown keeps the workflow simple. You can draft quickly, edit in any text edit
 
 Vivamus commodo, odio ac luctus consequat, mauris augue sollicitudin ligula, sit amet feugiat lorem arcu a dui. Cras nec lorem vitae mauris porta volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
+Inline formulas also work naturally inside a sentence, for example $f(x) = x^2 + 3x + 1$ or the Gaussian density $p(x) = \frac{1}{\sigma\sqrt{2\pi}} e^{-\frac{(x-\mu)^2}{2\sigma^2}}$.
+
+$$
+\int_0^1 x^2 \, dx = \frac{1}{3}
+$$
+
 ## Small structure, clear reading
 
 Curabitur sodales, nisl sed luctus malesuada, arcu ipsum finibus sem, in ultrices mauris lorem vel justo. Duis fermentum magna at mauris feugiat, vitae pellentesque sapien elementum.

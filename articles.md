@@ -36,6 +36,60 @@ permalink: /articles/
       <a class="publication-link" href="https://www.researchgate.net/publication/397724804_Model-Aware_Automatic_Benchmark_Generation_with_Self-Error_Instructions_for_Data-Driven_Models" target="_blank" rel="noreferrer">Link in ResearchGate</a>
     </p>
   </article>
+
+  <article class="publication-item">
+    <div class="publication-title"><strong>A Dynamic Model of Customers Behavior: Integrating Econophysics and Physics-Informed Neural Networks</strong></div>
+    <p class="publication-meta"><strong>DOI:</strong> 10.1007/978-3-031-97626-1_17</p>
+    <p class="publication-meta publication-links">
+      <a class="publication-link" href="https://link.springer.com/chapter/10.1007/978-3-031-97626-1_17" target="_blank" rel="noreferrer">Link</a>
+      <a class="publication-link" href="https://www.researchgate.net/publication/393170362_A_Dynamic_Model_of_Customers_Behavior_Integrating_Econophysics_and_Physics-Informed_Neural_Networks" target="_blank" rel="noreferrer">Link in ResearchGate</a>
+    </p>
+  </article>
+
+  <article class="publication-item">
+    <div class="publication-title"><strong>Multivariate Time Series Modelling with Neural SDE Driven by Jump Diffusion</strong></div>
+    <p class="publication-meta"><strong>DOI:</strong> 10.1007/978-3-031-63759-9_26</p>
+    <p class="publication-meta publication-links">
+      <a class="publication-link" href="https://link.springer.com/chapter/10.1007/978-3-031-63759-9_26" target="_blank" rel="noreferrer">Link</a>
+      <a class="publication-link" href="https://www.researchgate.net/publication/381773271_Multivariate_Time_Series_Modelling_with_Neural_SDE_Driven_by_Jump_Diffusion" target="_blank" rel="noreferrer">Link in ResearchGate</a>
+    </p>
+  </article>
+
+  <article class="publication-item">
+    <div class="publication-title"><strong>TRGAN: A Time-Dependent Generative Adversarial Network for Synthetic Transactional Data Generation</strong></div>
+    <p class="publication-meta"><strong>DOI:</strong> 10.1145/3641067.3641076</p>
+    <p class="publication-meta publication-links">
+      <a class="publication-link" href="https://dl.acm.org/doi/10.1145/3641067.3641076" target="_blank" rel="noreferrer">Link</a>
+      <a class="publication-link" href="https://www.researchgate.net/publication/380570422_TRGAN_A_Time-Dependent_Generative_Adversarial_Network_for_Synthetic_Transactional_Data_Generation" target="_blank" rel="noreferrer">Link in ResearchGate</a>
+    </p>
+  </article>
+
+  <article class="publication-item">
+    <div class="publication-title"><strong>Synthetic Financial Time Series Generation with Regime Clustering</strong></div>
+    <p class="publication-meta"><strong>DOI:</strong> 10.12720/jait.14.6.1372-1381</p>
+    <p class="publication-meta publication-links">
+      <a class="publication-link" href="https://www.jait.us/show-233-1451-1.html" target="_blank" rel="noreferrer">Link</a>
+      <a class="publication-link" href="https://www.researchgate.net/publication/376489448_Synthetic_Financial_Time_Series_Generation_with_Regime_Clustering" target="_blank" rel="noreferrer">Link in ResearchGate</a>
+    </p>
+  </article>
+
+  <article class="publication-item">
+    <div class="publication-title"><strong>Time-dependent differential privacy for enhanced data protection in synthetic transaction generation</strong></div>
+    <p class="publication-meta"><strong>DOI:</strong> 10.1145/3651781.3651798</p>
+    <p class="publication-meta publication-links">
+      <a class="publication-link" href="https://dl.acm.org/doi/10.1145/3651781.3651798" target="_blank" rel="noreferrer">Link</a>
+      <a class="publication-link" href="https://www.researchgate.net/publication/381002928_Time-dependent_differential_privacy_for_enhanced_data_protection_in_synthetic_transaction_generation" target="_blank" rel="noreferrer">Link in ResearchGate</a>
+    </p>
+  </article>
+
+  <article class="publication-item">
+    <div class="publication-title"><strong>Forecasting Population Migration in Small Settlements Using Generative Models under Conditions of Data Scarcity</strong></div>
+    <p class="publication-meta"><strong>DOI:</strong> 10.3390/smartcities7050097</p>
+    <p class="publication-meta publication-links">
+      <a class="publication-link" href="https://www.mdpi.com/2624-6511/7/5/97?utm_source=researchgate.net&utm_medium=article" target="_blank" rel="noreferrer">Link</a>
+      <a class="publication-link" href="https://www.researchgate.net/publication/383691329_Forecasting_Population_Migration_in_Small_Settlements_Using_Generative_Models_under_Conditions_of_Data_Scarcity" target="_blank" rel="noreferrer">Link in ResearchGate</a>
+    </p>
+  </article>
 </section>
 
 <section class="publications-group">

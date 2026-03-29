@@ -7,50 +7,59 @@ permalink: /youtube-blog/
 <span class="eyebrow">Video Content</span>
 # Youtube Blog
 
-This page highlights your video work in a two-column format. We can later replace these placeholders with real thumbnails, embed previews, and direct links to your channel.
-
 <section class="video-grid">
   <article class="video-card">
     <div class="video-thumb">Video Preview 01</div>
-    <div class="video-title">Building a Personal Academic Website with Jekyll</div>
+    <div class="video-title">Почему Bias и Fallacy губят даже самые гениальные эксперименты? Обзор искажений в исследованиях</div>
     <p>
-      A walkthrough of how to structure a clean personal website for publications, writing, and research updates.
+      В этом видео разберем несколько видов систематических ошибок и искажений при проведении экспериментов в науке и не только. Вы узнаете какие виды искажений бывают и какие последствия могут быть если не обращать внимание на них. Для каждой ошибки разберем пример чтобы лучше понять суть дела.
     </p>
     <p>
-      <a class="video-link" href="https://www.youtube.com/" target="_blank" rel="noreferrer">Watch on YouTube</a>
+      <a class="video-link" href="https://www.youtube.com/watch?v=vISnv8eVCKU&t=705s" target="_blank" rel="noreferrer">Watch on YouTube</a>
     </p>
   </article>
 
   <article class="video-card">
     <div class="video-thumb">Video Preview 02</div>
-    <div class="video-title">Organizing Research Notes for Long-Term Projects</div>
+    <div class="video-title">Механизм skip-connections в нейронных сетях. Остаточные связи. Gated skip-connections. Модуляция</div>
     <p>
-      A practical video on keeping notes, drafts, and references structured without adding unnecessary complexity.
+      В данном видео разберем один из важнейших механизмов во всех нейронных сетях, а именно skip-connections. Рассмотрим каких видов они бывают и как вычисляются.
     </p>
     <p>
-      <a class="video-link" href="https://www.youtube.com/" target="_blank" rel="noreferrer">Watch on YouTube</a>
+      <a class="video-link" href="https://www.youtube.com/watch?v=ET8DmEM4Q9Q" target="_blank" rel="noreferrer">Watch on YouTube</a>
     </p>
   </article>
 
   <article class="video-card">
     <div class="video-thumb">Video Preview 03</div>
-    <div class="video-title">Writing Better Technical Articles for the Web</div>
+    <div class="video-title">Визитка для конференции ICDM. Promotional video for International Conference on Data Mining 2025</div>
     <p>
-      A short guide to readable layouts, stronger narrative structure, and making technical writing easier to follow.
+      Это видео-визитка для конференции ICDM 2025. Здесь я кратко рассказываю о нашей последней работе по управляемой генерации временных рядов. This is a promotional video for the ICDM 2025 conference. Here I briefly talk about our latest work on controlled time series generation.
     </p>
     <p>
-      <a class="video-link" href="https://www.youtube.com/" target="_blank" rel="noreferrer">Watch on YouTube</a>
+      <a class="video-link" href="https://www.youtube.com/watch?v=CPm8GGqr-oU" target="_blank" rel="noreferrer">Watch on YouTube</a>
     </p>
   </article>
 
   <article class="video-card">
     <div class="video-thumb">Video Preview 04</div>
-    <div class="video-title">From Draft to Publication: A Lightweight Workflow</div>
+    <div class="video-title">Арифметика сверточных слоев в нейронных сетях. Stride. Padding. Dilation.</div>
     <p>
-      An overview of how to move from early ideas to a polished publication pipeline using simple web tooling.
+      В данном ролике разберем что такое свертка и какие параметры у нее есть. А также разберемся как вычислять размер изображения после применения операции свертки. Рассмотрим примеры с кодом на Pytorch. 
     </p>
     <p>
-      <a class="video-link" href="https://www.youtube.com/" target="_blank" rel="noreferrer">Watch on YouTube</a>
+      <a class="video-link" href="https://www.youtube.com/watch?v=oeStO4iLn_E&t=1384s" target="_blank" rel="noreferrer">Watch on YouTube</a>
+    </p>
+  </article>
+
+  <article class="video-card">
+    <div class="video-thumb">Video Preview 04</div>
+    <div class="video-title">Пишем физически-информированную нейронную сеть с нуля. Туториал по PINNs. Физика в ML</div>
+    <p>
+      В этом видео вы научитесь писать физически-информированную нейронную сеть с нуля. В качестве примера разберем математический маятник. Также вы узнаете в целом о концепции PINNs. Это мое первое видео на канале (не судите строго).
+    </p>
+    <p>
+      <a class="video-link" href="https://www.youtube.com/watch?v=Kz1Ia21X-I0&t=12s" target="_blank" rel="noreferrer">Watch on YouTube</a>
     </p>
   </article>
 </section>

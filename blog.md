@@ -9,7 +9,7 @@ permalink: /blog/
 
 This section contains markdown posts from the `posts` folder. Each card shows the post title and a short summary, and the `Read` button opens the full article page.
 
-{% assign blog_posts = site.pages | where_exp: "item", "item.dir == '/posts/'" | sort: "title" %}
+{% assign blog_posts = site.pages | where_exp: "item", "item.path contains 'posts/'" %}
 
 <section class="blog-list">
   {% for post in blog_posts %}

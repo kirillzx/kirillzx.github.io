@@ -10,8 +10,7 @@ permalink: /
   <div class="hero-copy">
     <h1>Hi, I'm Kirill</h1>
     <p>
-      This is the home page of your personal website. We can next add a stronger personal bio,
-      featured projects, selected publications, and custom content for each section of the site.
+      Hello everyone, I'm a Research Scientist who explore and talk about how mathematics and machine learning help us understand the complex world around us. The main areas of my research are generative AI and physics-informed ML. I am currently a Data Scientist (R&D) at Yandex and a researcher at ITMO University.
     </p>
   </div>
 </div>

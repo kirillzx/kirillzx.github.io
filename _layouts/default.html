@@ -16,9 +16,10 @@
         <nav class="site-nav" aria-label="Main navigation">
           <a href="{{ '/' | relative_url }}">Home</a>
           <a href="{{ '/blog/' | relative_url }}">Blog</a>
+          <a href="{{ '/articles/' | relative_url }}">Publications</a>
           <a href="{{ '/about-me/' | relative_url }}">About Me</a>
-          <a href="{{ '/articles/' | relative_url }}">Articles</a>
           <a href="{{ '/contacts/' | relative_url }}">Contacts</a>
+          <a href="{{ '/contacts/' | relative_url }}">CV</a>
         </nav>
       </div>
     </header>
@@ -28,6 +29,17 @@
         {{ content }}
       </div>
     </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <span class="footer-label">Find me online</span>
+        <nav class="footer-nav" aria-label="Social links">
+          <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">LinkedIn</a>
+          <a href="https://www.youtube.com/" target="_blank" rel="noreferrer">YouTube</a>
+          <a href="https://t.me/" target="_blank" rel="noreferrer">Telegram</a>
+          <a href="https://github.com/" target="_blank" rel="noreferrer">GitHub</a>
+        </nav>
+      </div>
+    </footer>
   </body>
 </html>
-

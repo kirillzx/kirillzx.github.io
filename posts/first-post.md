@@ -1,7 +1,7 @@
 ---
 title: Notes on Building Ideas Step by Step
 description: A sample markdown post with placeholder text that demonstrates how blog entries will appear in the listing and on their own page.
-permalink: /posts/notes-on-building-ideas-step-by-step/
+permalink: /posts/template/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dignissim, nisi non tincidunt cursus, tortor eros gravida libero, nec feugiat lacus erat nec justo. Sed ut orci sed nibh vestibulum tincidunt.
@@ -21,3 +21,9 @@ Curabitur sodales, nisl sed luctus malesuada, arcu ipsum finibus sem, in ultrice
 - Third short point to demonstrate readable spacing.
 
 Donec mollis luctus enim, a tincidunt justo cursus vel. Integer condimentum metus ut lacinia suscipit. Aliquam erat volutpat.
+
+Testing latex in text $\mathcal{R}\in T_{\alpha}\int_0^1 x dx$
+and separate
+$$
+\sum_{i=1}^k \lim\limits_{t\to\0} \frac{f(t)}{t}
+$$
